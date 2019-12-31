@@ -1,0 +1,19 @@
+<Company>.(<Product>|<Technology>)[.<Feature>][.<Subnamespace>]
+
+----------
+
+        md
+          neid
+            nedn
+          mi
+             mts
+             mt
+             mv
+               moid
+               r
+			   r
+             mv
+               moid
+               r
+			   r
+        
